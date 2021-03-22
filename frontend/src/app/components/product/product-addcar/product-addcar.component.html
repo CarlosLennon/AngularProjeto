@@ -1,0 +1,22 @@
+<mat-card>
+    <mat-card-title>Adicionar no carrinho</mat-card-title>
+    <form>
+       <mat-form-field>
+            <input matInput placeholder="Nome" 
+            [(ngModel)]="product.name" name="name" disabled>
+                <!-- [(ngModel)]="buy.name" [value]="product.name" -->
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Preço (R$)" 
+            [(ngModel)]="product.price"name="price" disabled>
+        </mat-form-field>
+    </form>
+
+    <button mat-raised-button (click)="addProduct()" color="primary">
+        Adicionar
+    </button>
+
+    <button mat-raised-button (click)="addCancel()">
+        Cancelar
+    </button>
+</mat-card>

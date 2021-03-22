@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Carro",
+      "price": "1003.23",
+      "qtd": "1",
+      "obs": "seminovo"
+    },
+    {
+      "id": 3,
+      "name": "Caneta Azul",
+      "price": "3",
+      "qtd": "1",
+      "obs": "novo"
+    },
+    {
+      "name": "Carne",
+      "price": "22",
+      "qtd": "1",
+      "obs": "novo",
+      "id": 4
+    },
+    {
+      "name": "Leite",
+      "price": "3",
+      "qtd": "1",
+      "obs": "seminovo",
+      "id": 6
+    }
+  ],
+  "buy": [
+    {
+      "name": "Produto de teste 1",
+      "price": "10",
+      "qtd": "1",
+      "obs": "seminovo",
+      "id": 25
+    },
+    {
+      "name": "Leite",
+      "price": "3",
+      "qtd": "1",
+      "obs": "seminovo",
+      "id": 6
+    },
+    {
+      "name": "Produto de teste",
+      "price": "10",
+      "qtd": "13",
+      "obs": "seminovo",
+      "id": 5
+    }
+  ],
+  "cliente": [
+    {
+      "id": 2,
+      "userName": "José",
+      "cpf": "12345698790"
+    },
+    {
+      "userName": "lennon",
+      "cpf": "2000",
+      "id": 4
+    },
+    {
+      "userName": "a",
+      "cpf": 0,
+      "id": 5
+    },
+    {
+      "userName": "afonso",
+      "cpf": "12345678956",
+      "id": 6
+    },
+    {
+      "userName": "Gulherme",
+      "cpf": "98745612302",
+      "id": 7
+    },
+    {
+      "userName": "Amanda",
+      "cpf": "12398745634",
+      "id": 8
+    }
+  ]
+}

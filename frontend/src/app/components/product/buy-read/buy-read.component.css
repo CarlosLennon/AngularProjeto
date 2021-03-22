@@ -1,0 +1,33 @@
+table{
+    width: 100%;
+}
+i.edit{
+    color: #d9cd26;
+}
+
+i.delete{
+    color: #e35e6b;
+    margin:0px 10px 0px 10px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin:15px 10px 15px 10px;
+    
+}
+input{
+    min-height: 1.5rem;
+}
+.delete{
+    text-align: center;
+    color: #e35e6b;
+}
+.ver{
+    text-align: center;
+    color: blue;
+}
