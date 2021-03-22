@@ -36,20 +36,6 @@
       "qtd": "1",
       "obs": "seminovo",
       "id": 25
-    },
-    {
-      "name": "Leite",
-      "price": "3",
-      "qtd": "1",
-      "obs": "seminovo",
-      "id": 6
-    },
-    {
-      "name": "Produto de teste",
-      "price": "10",
-      "qtd": "13",
-      "obs": "seminovo",
-      "id": 5
     }
   ],
   "cliente": [
